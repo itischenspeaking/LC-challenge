@@ -1,5 +1,7 @@
 # LC Daily
 
+**Total: 11**
+
 | # | Title | Diff | Tags | Date |
 |---|-------|------|------|------|
 | 62 | [Unique Paths](problems/0062-unique-paths/) | Med | DP | 2026-06-28 |
